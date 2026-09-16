@@ -27,9 +27,9 @@ To compare air quality parameters in Delhi across different stations and analyze
 
 ## Program
 
-### Name : SUDARSHANA S
+### Name : SARIDHA M A
 
-### Reg No: 212223050054
+### Reg No: 212223050045
 
 ```python
 import pandas as pd
